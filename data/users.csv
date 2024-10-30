@@ -1,0 +1,5 @@
+username,password,role
+john_doe,12345,cashier
+jane_smith,abcde,manager
+manager1,pass123,manager
+cashier1,password,cashier
